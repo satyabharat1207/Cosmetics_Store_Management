@@ -1,7 +1,3 @@
-Here's a README file based on the project description you provided:
-
----
-
 # Cosmetics Store Management
 
 **Cosmetics Store Management** is a comprehensive solution designed to help cosmetics stores manage their operations efficiently and effectively. This solution is built on the Salesforce platform, providing a powerful and scalable foundation for managing customer relationships, sales, and inventory.
@@ -43,25 +39,4 @@ To deploy this solution, you will need:
 - Access the Cosmetics Store Management app from your Salesforce dashboard.
 - Navigate through the various modules like Customers, Sales, Inventory, etc., to manage your store operations.
 
-## Contributing
 
-We welcome contributions to enhance the Cosmetics Store Management solution. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with a clear message.
-4. Push your branch to your forked repository.
-5. Create a pull request, and describe the changes you have made.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or support, please contact:
-- Your Name: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-Feel free to adjust any sections according to your preferences!
