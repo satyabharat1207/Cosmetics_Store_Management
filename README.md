@@ -28,7 +28,7 @@ To deploy this solution, you will need:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Cosmetics_Store_Management.git
+   git clone https://github.com/satyabharat1207/Cosmetics_Store_Management.git
    ```
 2. Deploy the project to your Salesforce environment.
 
