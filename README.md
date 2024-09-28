@@ -27,7 +27,7 @@ To deploy this solution, you will need:
 ### Video
 Watch this demo video to see how Cosmetics Store Management Application in action:
 
-[![Cosmetics Store Management] (https://youtu.be/B3OVblIkvZQ)
+[![Cosmetics Store Management](https://img.youtube.com/vi/iAFz3voBXQQ/0.jpg)] (https://youtu.be/B3OVblIkvZQ)
 
 ### Installation
 
