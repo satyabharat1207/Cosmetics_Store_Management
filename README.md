@@ -24,6 +24,11 @@ To deploy this solution, you will need:
 - A Salesforce account
 - Basic understanding of the Salesforce platform
 
+### vedio
+Watch this demo video to see how Cosmetics Store Management Application in action:
+
+[![Cosmetics Store Management] (https://youtu.be/B3OVblIkvZQ)
+
 ### Installation
 
 1. Clone the repository to your local machine:
